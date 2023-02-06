@@ -5,3 +5,4 @@
 
 2) React Redux is applied for state management of the whole projects and it makes eaiser to handle the states
 
+APK download link =>  https://drive.google.com/file/d/1qDHeSi_87F8jxVV2Ut-cqk0EEdfmB3pN/view?usp=sharing
